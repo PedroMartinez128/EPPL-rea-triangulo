@@ -1,2 +1,2 @@
-# EPPL-rea-triangulo
+# EPPL-area-triangulo
 Resultado del triangulo
